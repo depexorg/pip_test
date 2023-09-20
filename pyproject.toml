@@ -19,7 +19,6 @@ classifiers = [
 ]
 requires-python = ">=3.8"
 dependencies = [
-    "urllib3>=2.0.4",
     "Werkzeug>=2.3.6",
     "Jinja2>=3.1.2",
     "itsdangerous>=2.1.2",
