@@ -6,7 +6,7 @@ authors = [
     { name = "Antonio German Marquez Trujillo", email = "germanoctako@gmail.com" }
 ]
 dependencies = [
-    "Jinja2>=2.2"
+    "Jinja2>1.2,>=2.2"
 ]
 
 [project.optional-dependencies]
